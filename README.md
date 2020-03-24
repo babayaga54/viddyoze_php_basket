@@ -36,7 +36,7 @@ function get_item_code()
 Add item to the shopping cart
 
 ```bash
-add_item($new_item)
+function add_item($new_item)
 ```
 
 Print total cost of the basket
